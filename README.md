@@ -13,6 +13,9 @@ Federated learning maximizes the utilization of data resources on each terminal 
 Algorithms Used:
 Deep Neural Network (DNN)
 
+The BODMAS Malware Dataset is created and maintained by Blue Hexagon and UIUC.
+Please visit https://whyisyoung.github.io/BODMAS/ for more details.
+
 Labels:
 malware,
 Spyware,
